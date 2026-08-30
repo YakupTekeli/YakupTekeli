@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/jet-banner.gif" width="100%" alt="Animated jet aircraft in a pink sky" />
+  <img src="assets/jet-banner.gif" width="70%" alt="Animated jet aircraft in a pink sky" />
 </div>
 
 <h1 align="center">Yakup Tekeli</h1>
@@ -10,14 +10,14 @@
 </p>
 
 <p align="center">
-  <a href="https://yakuptekeli.com"><img src="https://img.shields.io/badge/Portfolio-FF4F9A?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://yakuptekeli.com/en/projects"><img src="https://img.shields.io/badge/Portfolio-FF4F9A?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/yakup-tekeli-797994304/"><img src="https://img.shields.io/badge/LinkedIn-B82975?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:yakuptekeli@protonmail.com"><img src="https://img.shields.io/badge/Email-7A1F5C?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ## About Me
 
-I am a fourth-year Software Engineering student focused on building intelligent systems for autonomous platforms. My work spans computer vision, reinforcement learning, embedded software, UAV navigation, and ground-control systems, with a particular interest in aviation and GNSS-denied autonomy.
+Fourth year Software Engineering student focused on building intelligent systems for autonomous platforms. My work spans computer vision, reinforcement learning, embedded software, UAV navigation, and ground-control systems, with a particular interest in aviation and GNSS-denied autonomy.
 
 ## Featured Project
 
