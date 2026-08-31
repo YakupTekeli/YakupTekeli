@@ -63,7 +63,21 @@ Fourth year Software Engineering student focused on building intelligent systems
 </p>
 
 <p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=YakupTekeli&theme=transparent&hide_border=true&ring=FF4F9A&fire=FF4F9A&currStreakLabel=FF4F9A&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=C9D1D9" alt="Yakup's contribution streak" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://streak-stats.demolab.com?user=YakupTekeli&theme=transparent&hide_border=true&ring=FF4F9A&fire=FF4F9A&currStreakLabel=FF4F9A&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=C9D1D9"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://streak-stats.demolab.com?user=YakupTekeli&theme=transparent&hide_border=true&ring=FF4F9A&fire=FF4F9A&currStreakLabel=FF4F9A&sideLabels=000000&dates=333333&sideNums=000000&currStreakNum=000000"
+    />
+    <img
+      width="60%"
+      src="https://streak-stats.demolab.com?user=YakupTekeli&theme=transparent&hide_border=true&ring=FF4F9A&fire=FF4F9A&currStreakLabel=FF4F9A&sideLabels=000000&dates=333333&sideNums=000000&currStreakNum=000000"
+      alt="Yakup's contribution streak"
+    />
+  </picture>
 </p>
 
 <p align="center">
